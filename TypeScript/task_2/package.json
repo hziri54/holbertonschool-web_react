@@ -1,0 +1,17 @@
+{
+  "name": "task_2",
+  "version": "1.0.0",
+  "description": "Task 2 - Advanced Types Part 1",
+  "main": "js/main.ts",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "ts-loader": "^9.5.1",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
